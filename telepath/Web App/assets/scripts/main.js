@@ -109,8 +109,8 @@ require(
           top: 0
       },
       layer: null,
-      layerUrl: 'http://services.arcgis.com/hNP0AsFlTAoVqfxx/arcgis/rest/services/path/FeatureServer/0',
-      momentsUrl:'http://services.arcgis.com/hNP0AsFlTAoVqfxx/arcgis/rest/services/Moments/FeatureServer/0',
+      layerUrl: '//services.arcgis.com/hNP0AsFlTAoVqfxx/arcgis/rest/services/path/FeatureServer/0',
+      momentsUrl:'//services.arcgis.com/hNP0AsFlTAoVqfxx/arcgis/rest/services/Moments/FeatureServer/0',
       momentsCount:0,
       moments: null,
       currentMoment: 0,
